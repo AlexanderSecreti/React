@@ -1,11 +1,16 @@
 {
+<<<<<<< HEAD
   "name": "digitalcelu",
+=======
+  "name": "ecommercereact",
+>>>>>>> 6e52f46 (PreEntrega2+Secreti)
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+<<<<<<< HEAD
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
@@ -15,6 +20,15 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.6.0",
     "styled-components": "^5.3.6"
+=======
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0",
+    "react-router-dom": "^6.4.4"
+>>>>>>> 6e52f46 (PreEntrega2+Secreti)
   },
   "devDependencies": {
     "@types/react": "^18.0.24",

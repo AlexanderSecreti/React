@@ -11,10 +11,17 @@
   will-change: filter;
 }
 .logo:hover {
+<<<<<<< HEAD
   filter: drop-shadow(0 0 2em blue);
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em aqua);
+=======
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+>>>>>>> 6e52f46 (PreEntrega2+Secreti)
 }
 
 @keyframes logo-spin {
@@ -37,5 +44,9 @@
 }
 
 .read-the-docs {
+<<<<<<< HEAD
   color: red;
+=======
+  color: #888;
+>>>>>>> 6e52f46 (PreEntrega2+Secreti)
 }
